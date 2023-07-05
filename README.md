@@ -1,3 +1,3 @@
 # RestBlog-ResctJS
-Simple Rest Blog thatows you to create a post. Using JavaScript with the ReactJS Framework on the Front-End side
-User can create a post with a description and title. The user can create a post with a description and a title. Those posts are saved in a MySQL database.
+
+ Simple RestBlog that allows you to create a post. Using JavaScript with ReactJS Framework on the front-end side, NodeJS as the Back-End and MySQL as the Database, the user can create a post with a Description and a Title. The user can create a post with a description and a title. Those posts are saved in a MySQL database.
